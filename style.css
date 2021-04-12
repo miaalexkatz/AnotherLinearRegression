@@ -17,5 +17,6 @@ canvas {
   height: 400px; 
   left: 50%; 
   top: 50%; 
+  margin-left: -200px;
 }
 
